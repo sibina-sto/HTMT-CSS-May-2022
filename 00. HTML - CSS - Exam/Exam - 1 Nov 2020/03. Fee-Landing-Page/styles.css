@@ -1,0 +1,251 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,700;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap');
+
+* {
+    box-sizing: border-box;
+}
+
+html {
+    font-family: Lato, sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Montserat', sans-serif;
+}
+
+.wrapper {
+    display: flex;
+    flex-direction: column;
+    width: 95%;
+    margin: 0 auto;
+}
+
+.navigation-bar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nav-list {
+    display: flex;
+}
+
+.nav-list li {
+    list-style: none;
+    padding: 5px;
+}
+
+.nav-list li a {
+    text-decoration: none;
+    color: black;
+}
+
+.logo {
+    width: 130px;
+    height: 50px;
+    position: relative;
+    right: -60px;
+}
+
+.fees {
+    background: #54546D;
+    display: flex;
+    justify-content: center;
+    min-height: 290px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+.fees-heading {
+    display: flex;
+    color: white;
+    flex-basis: 70%;
+    justify-content: center;
+    padding-top: 20px;
+    font-size: 20px;
+    font-family: 'Montserat', sans-serif;
+    position: relative;
+    left: -60px;
+}
+
+.calc-holder {
+    display: flex;
+    align-items: center;
+}
+
+.calc {
+    width: 150px;
+    height: 160px;
+    position: relative;
+    left: -172px;
+}
+
+.cards {
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: -190px;
+}
+
+.card-one, .card-two, .card-three {
+    display: flex;
+    flex-direction: column;
+    width: 28%;
+    background: white;
+    box-shadow: 0px 0px 6px -2px #000000;
+    margin: 8px;
+    justify-content: center;
+    padding: 0px;
+    border-radius: 3px;
+}
+
+.btn-purple {
+    background: #9A5DC6;
+    color: white;
+    border-radius: 18px;
+    padding: 15px 25px 15px 25px;
+    box-shadow: 0px 0px 6px -2px #000000;
+    outline: none;
+    border: none;
+    width: 50%;
+    margin: 30px auto;
+    margin-bottom: 50px;
+    position: relative;
+    top: 20px;
+    font-weight: bold;
+    line-height: 0.7;
+}
+
+.center {
+    text-align: center;
+    font-size: 16px;
+}
+
+.green {
+    color: white;
+    background: linear-gradient(90deg, rgba(4, 155, 61, 1) 0%, rgba(72, 212, 125, 1) 78%);
+    position: relative;
+    top: 22px;
+}
+
+.blue {
+    display: flex;
+    justify-content: center;
+    color: white;
+    background: linear-gradient(90deg, rgba(76, 108, 137, 1) 0%, rgba(96, 152, 203, 1) 78%);
+}
+
+.blue-first, .blue-second, .violet-one, .violet-two {
+    padding: 2px;
+    justify-content: center;
+    margin: 0 auto;
+    width: 50%;
+}
+
+.blue-first, .violet-one {
+    content: '';
+    border-right: 1px solid white;
+    height: 90%;
+    position: relative;
+    top: 5px;
+}
+
+.blue-second, .violet-two {
+    content: '';
+    border-left: 1px solid white;
+    height: 90%;
+    position: relative;
+    top: 5px;
+}
+
+.violet {
+    display: flex;
+    justify-content: center;
+    color: white;
+    background: linear-gradient(90deg, rgba(76, 57, 166, 1) 0%, rgba(137, 122, 223, 1) 95%);
+}
+
+#design-basics {
+    margin: 0;
+}
+
+.text {
+    display: flex;
+    flex-direction: column;
+    width: 75%;
+    margin: 0 auto;
+}
+
+table {
+    margin: 0 auto;
+    width: 75%;
+    border-collapse: collapse;
+    margin-top: 30px;
+}
+
+table tr:nth-child(odd) td {
+    background: #E6E6E6;
+}
+
+table tr:nth-child(even) td {
+    background: #F8F8F8;
+}
+
+td {
+    padding: 13px;
+}
+
+.item {
+    min-width: 100px;
+    text-align: center;
+}
+
+.post-text {
+    display: flex;
+    flex-direction: column;
+    margin: 50px;
+
+}
+
+.post-paragraphs {
+    display: flex;
+    flex-direction: column;
+    width: 90%;
+
+}
+
+.post-container {
+    display: flex;
+    flex-direction: row;
+}
+
+.para {
+    padding: 0;
+    margin: 0;
+}
+
+footer {
+    margin-top: 90px;
+    background: #54546D;
+    color: #757591;
+    text-align: center;
+    padding: 6px;
+}
+
+.second-wrapper {
+    position: relative;
+    top: -130px;
+}
+
+.pad {
+    padding: 5px;
+}
+
+.head {
+    font-size: 18px;
+}
+
+.size {
+    font-size: 14px;
+    padding-bottom: 5px;
+}
