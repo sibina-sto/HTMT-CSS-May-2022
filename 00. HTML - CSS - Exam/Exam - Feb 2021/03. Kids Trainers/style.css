@@ -1,0 +1,59 @@
+html {
+  font-family: "Helvetica", sans-serif;
+}
+
+body {
+  box-sizing: border-box;
+  margin: 0;
+}
+
+.creative-logo {
+  width: 120px;
+  margin-left: 50px;
+}
+.header {
+  background: #41bead;
+}
+
+.nav-wrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0 100px;
+}
+
+.ul-wrapper {
+  display: flex;
+  justify-content: space-between;
+}
+ul li a {
+  color: white;
+  text-decoration: none;
+}
+
+ul li {
+  list-style: none;
+}
+
+.list {
+  padding: 10px;
+}
+
+.about {
+  margin-top: -30px;
+  background: #ffb402;
+  text-align: center;
+}
+
+h1 {
+  padding-top: 50px;
+  color: white;
+}
+
+.about-text {
+  padding: 20px 60px 50px 60px;
+  margin: -5px auto 0 auto;
+  max-width: 53%;
+  text-align: center;
+  color: white;
+}
