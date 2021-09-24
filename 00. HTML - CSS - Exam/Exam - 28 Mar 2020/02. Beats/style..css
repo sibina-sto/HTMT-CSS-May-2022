@@ -1,0 +1,220 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;700&display=swap');
+
+*,
+*::before,
+*::after {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    margin: 60px auto;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.beats-nav ul li {
+    list-style: none;
+    display: inline-block;
+    margin-left: 220px;
+}
+
+.beats-nav ul li a {
+    text-decoration: none;
+    color: #9D9D9D;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.solo-wireless {
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.solo-wireless-content {
+    display: inline-block;
+    width: 49%;
+    vertical-align: middle;
+    padding: 156px;
+}
+
+.solo-wireless-content h1 {
+    font-size: 57px;
+    font-weight: 300;
+    padding-bottom: 30px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.solo-wireless-content p {
+    line-height: 1.6;
+}
+
+.button {
+    border-radius: 30px;
+    text-transform: uppercase;
+    padding: 16px 50px;
+    background-color: #FF0000;
+    color: white;
+    border: none;
+}
+
+.solo-wireless-content button {
+    margin-top: 40px;
+
+}
+
+.solo-wireless-image-wrapper {
+    display: inline-block;
+    width: 49%;
+    vertical-align: top;
+}
+
+.solo-wireless-image-wrapper img {
+    width: 100%;
+}
+
+.powerbeats {
+    padding-top: 90px;
+    background-color: #FBFCFF;
+}
+
+.powerbeats-image-wrapper {
+    display: inline-block;
+    width: 49%;
+    vertical-align: top;
+    padding: 70px;
+}
+
+.powerbeats-image-wrapper img {
+    width: 100%;
+}
+
+.powerbeats-content {
+    display: inline-block;
+    width: 49%;
+    vertical-align: top;
+    padding: 100px;
+}
+
+.powerbeats-heading {
+    font-size: 70px;
+    font-weight: 300;
+    text-align: center;
+}
+
+.powerbeats-subtitle {
+    display: inline-block;
+    text-transform: uppercase;
+    margin-left: 250px;
+}
+
+.powerbeats-text {
+    display: inline-block;
+    font-size: 20px;
+    margin-top: 60px;
+}
+
+.powerbeats-price-and-button {
+    margin-top: 70px;
+    text-align: left;
+}
+
+.powerbeats-price {
+    display: inline-block;
+    font-size: 40px;
+}
+
+.powerbeats-price-and-button button {
+    margin-left: 40px;
+    vertical-align: top;
+}
+
+.trial {
+    background-color: #575757;
+}
+
+.deal-wrapper {
+    padding-top: 25px;
+    text-align: center;
+}
+
+.deal-wrapper img {
+    width: 6%;
+}
+
+.trial p {
+    display: inline-block;
+    text-transform: uppercase;
+    color: white;
+    vertical-align: top;
+    padding-top: 34px;
+    padding-left: 30px;
+    font-size: 20px;
+}
+
+.trial button {
+    border: none;
+    background-color: #575757;
+    color: white;
+    text-transform: uppercase;
+    font-weight: bold;
+    margin-left: 740px;
+    margin-bottom: 50px;
+    margin-top: 40px;
+    font-size: 18px;
+    border-bottom: 1px solid white;
+    padding-bottom: 7px;
+}
+
+.beats-red-image-wrapper {
+    display: inline-block;
+    width: 50%;
+}
+
+.beats-red-image-wrapper img {
+    height: 628px;
+    width: 101%;
+}
+
+.beats-red-content {
+    display: inline-block;
+    height: 626px;
+    width: 49%;
+    background-color: #DADADA;
+}
+
+.beats-red-content-wrapper {
+    display: inline-block;
+    width: 60%;
+    text-align: center;
+    vertical-align: top;
+    padding: 100px;
+}
+
+.beats-red-heading {
+    font-size: 130px;
+    letter-spacing: -11px;
+}
+
+.beats-red-content-image-wrapper {
+    display: inline-block;
+    width: 29%;
+    margin-right: 30px;
+}
+
+.beats-red-subtitle {
+    font-weight: 300;
+    font-size: 40px;
+    letter-spacing: -3px;
+}
+
+.beats-red-subtitle strong {
+    color: #FF0000
+}
+
+.footer-like h3 {
+    font-weight: 300;
+    font-size: 30px;
+    margin-top: 40px;
+    text-align: center;
+}
