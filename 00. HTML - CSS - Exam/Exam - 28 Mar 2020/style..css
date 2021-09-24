@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400&display=swap');
+
+*,
+*::before,
+*::after {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Lato', sans-serif;
+    margin: 100px 100px;
+}
+
+.h1-heading {
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+.h3-heading {
+    margin-bottom: 30px;
+}
+
+.car-dealer-info-p {
+    color: #89898E;
+    font-size: 17px;
+}
+
+.car-dealer-info-wrapper {
+    display: inline-block;
+    width: 45%;
+    vertical-align: top;
+}
+
+.car-dealer-image-wrapper {
+    display: inline-block;
+    width: 40%;
+    margin-left: 68px
+}
+
+.article-info-wrapper img {
+    display: inline-block;
+    width: 60px;
+}
+
+.article-info {
+    display: inline-block;
+    margin-top: 40px;
+}
+
+.article-info h4 {
+    color: #6D6976;
+}
+
+.article-info p {
+    margin-top: 7px;
+    color: #89898E;
+}
