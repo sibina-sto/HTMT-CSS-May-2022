@@ -1,0 +1,16 @@
+html{
+    font-family: Helvetica, sans-serif;
+}
+
+nav{
+    display: inline-block;
+}
+
+nav li{
+    display: inline-block;
+    margin-left: 30px;
+}
+
+nav li a{
+    text-decoration: none;
+}
