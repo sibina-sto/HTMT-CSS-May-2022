@@ -1,0 +1,67 @@
+@import url('http://fonts.googleapis.com/css?family=Helvetica');
+
+html{
+    font-family: Helvetica, sans-serif;
+    font-size: 20px;
+}
+
+body {
+    padding: 60px;
+}
+
+div{
+    display: flex;
+    align-items: center;
+    max-width: 15vw;
+    flex-direction: column;
+    flex-wrap: wrap;
+    max-height: 450px;
+}
+
+span{
+    border: 1px solid black;
+    margin:5px;
+    padding: 10px 20px;
+    width: 30px;
+    text-align: center;
+}
+
+#S{
+    order: 0;
+}
+
+#e{
+    order:1;
+}
+
+#m{
+    order:2;
+}
+
+#a{
+    order:3;
+}
+#n{
+    order:4;
+}
+#t{
+    order:5;
+}
+#i{
+    order:6;
+}
+#c{
+    order:7;
+}
+#H{
+    order:8;
+}
+#T{
+    order:9;
+}
+#M{
+    order:10;
+}
+#L{
+    order:11;
+}

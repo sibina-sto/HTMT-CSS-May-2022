@@ -1,0 +1,23 @@
+body {
+    padding: 20px;
+}
+
+header{
+    border-bottom: 2px solid rgb(0,0,0);
+    display: flex;
+    justify-content: space-between;
+}
+
+header nav {
+    margin-top: 15px;
+}
+
+header nav ul {
+    display: flex;
+    list-style: none;
+}
+header nav ul li a{
+    text-decoration: none;
+    color: rgb(0, 153, 0);
+    padding-left: 20px;
+}

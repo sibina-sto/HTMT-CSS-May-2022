@@ -1,0 +1,30 @@
+body {
+    background-color: lightgray;
+}
+
+body, ul, li {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+ul {
+    justify-content: space-between;
+    gap: 20px;
+    list-style: none;
+}
+
+li{
+
+    border: 5px solid black;
+    padding: 20px;
+    background-color:white;
+    height: 480px;
+}
+
+.gallery {
+    width: 1000px;
+}
+
+img {
+    object-fit: contain;
+}
