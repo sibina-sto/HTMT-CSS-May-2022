@@ -1,0 +1,135 @@
+body {
+    background-color: rgb(238, 238, 238);
+    padding: 30px;
+}
+
+.header {
+    position: relative;
+}
+
+.header p {
+    font-size: 40px;
+    display: inline-block;
+}
+
+.first-img, .second-img{
+    background-color:rgb(255, 255, 255);
+    border: solid 3px black;
+    box-shadow: 0px 0px 18px 5px rgba(0, 0, 0, 0.25);
+}
+
+.first-img{
+    width:200px;
+    float: right;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+
+.first-img img{
+    vertical-align: middle;
+    padding: 10px;
+}
+
+.second-img{
+    width:220px;
+    float:left;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+
+.second-img img{
+    padding: 10px;
+}
+
+main cite, h1, h2, .header p, blockquote{
+    font-family: Georgia, serif;
+}
+
+h1{
+    font-size: 1.2em;
+}
+
+h2{
+    font-size: 1em;
+}
+
+ul li a {
+    color: rgb(0, 102, 0);
+}
+
+main{
+    display: inline-block;
+    padding-right: 30px;
+}
+
+.paragraph{
+    display: inline-block;
+    width: 60%;
+    vertical-align: top;
+    padding-right: 20px;
+}
+
+.cite{
+    display: inline-block;
+    width: 30%;
+    color: grey;
+    position: relative;
+    border-left: 3px solid lightgrey;
+    padding-left:20px;
+}
+
+.cite p:last-of-type{
+    position: absolute;
+    bottom: -30px;
+    right: 0;
+}
+
+.margin-paragraph{
+    margin-top:40px;
+}
+
+/* setting font-size ------------- */
+
+@media screen and (max-width: 500px) {
+    body{
+        font-size:12px;
+    }
+}
+
+@media screen and (min-width: 501px) and (max-width: 600px){
+    body{
+        font-size:14px;
+    }
+}
+
+@media screen and (min-width: 601px) and (max-width: 800px){
+    body{
+        font-size:16px;
+    }
+}
+
+@media screen and (min-width: 801px) and (max-width: 1300px){
+    body{
+        font-size:18px;
+    }
+}
+
+@media screen and (min-width: 1301px) and (max-width: 1800px){
+    body{
+        font-size:21px;
+    }
+}
+
+@media screen and (min-width: 1801px){
+    body{
+        font-size:23px;
+    }
+}
+
+/* setting devices width ---------------*/
+
+@media screen and (min-width: 1200px){
+ body{
+     padding:15px;
+ }
+}

@@ -1,0 +1,34 @@
+body {
+    background-color: rgb(238, 238, 238);
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%
+}
+
+td, th {
+    border: 1px solid;
+    text-align: left;
+    padding: 8px;
+}
+
+.column {
+    background-color: black;
+    color: white;
+}
+
+tr:nth-child(odd) {
+    background-color: white;
+}
+
+.center {
+    position: absolute;
+    top: 30px;
+    left: 30px;
+    width: 1470px;
+}
+
+@media screen and (min-width: 666px) {
+
+}

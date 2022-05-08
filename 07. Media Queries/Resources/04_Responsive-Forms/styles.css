@@ -1,0 +1,99 @@
+@import url("https://use.fontawesome.com/releases/v5.15.4/css/all.css");
+
+legend{
+    position:absolute;
+    border: 1px solid grey;
+    width:120px;
+    background-color: #f0eeeb;
+    padding: 5px;
+    top:-30px;
+    left:-18px;
+}
+
+fieldset{
+    border:none;
+    position: relative;
+}
+
+form{
+    width: 300px;
+    background-color: lightgrey;
+    border: 1px solid grey;
+    box-shadow: 0px 0px 16px -5px #000000;
+    margin: 30px 15px;
+    padding: 15px 15px 10px 15px;
+}
+
+span{
+    position: relative;
+}
+form p{
+    display: inline-block;
+    width: 20%;
+    margin-right: 10px;;
+}
+
+input{
+    display: inline-block;
+    width: 70%;
+    border: 1px solid grey;
+    height: 20px;
+}
+
+input:focus + i{
+    visibility: hidden;
+}
+
+input:focus{
+    background-color: #f0eeeb;
+}
+
+i{
+    font-size: 12px;
+    position: absolute;
+    bottom: 3px;
+    left: 80px;
+}
+
+button{
+    padding: 5px 10px;
+    border-radius: 3px;
+    background-color: #000;
+    color: #fff;
+    font-weight: bold;
+    border: none;
+}
+
+@media screen and (min-width: 320px) and (max-width:480px){
+    form{
+        width:150px;
+    }
+    input{
+        width:100%;
+        margin-top:0px;
+    }
+    form p{
+        margin-bottom:0px;
+    }
+    i{
+        top:25px;
+        left:7px;
+    }
+}
+
+@media screen and (min-width: 480px) and (max-width:1024px){
+    form{
+        width:200px;
+    }
+    input{
+        width:100%;
+        margin-top:0px;
+    }
+    form p{
+        margin-bottom:0px;
+    }
+    i{
+        top:25px;
+        left:7px;
+    }
+}
