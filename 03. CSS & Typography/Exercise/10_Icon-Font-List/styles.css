@@ -1,4 +1,4 @@
-@import url("https://use.fontawesome.com/releases/v5.10.0/css/all.css");
+@import url("https://use.fontawesome.com/releases/v6.1.1/css/all.css");
 
 
 body {
@@ -7,26 +7,21 @@ body {
     font-size: 18px;
 }
 
-ul{
-    list-style: none;
+ul {
+    list-style-type: none;
 }
 
-
-
-ul.check i{
+ul.check i {
     color: #2fcc71;
     font-size: 25px;
-    padding-right: 5px;
 }
 
-ul.star i{
-    color: coral;
+ul.star i {
+    color:coral;
     font-size: 25px;
-    padding-right: 5px;
 }
 
-ul.contact i{
+ul.contact i {
     color: #3498da;
     font-size: 25px;
-    padding-right: 5px;
 }
