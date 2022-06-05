@@ -3,11 +3,9 @@
 - [Ellipsis string](https://css-tricks.com/snippets/css/truncate-string-with-ellipsis/)
 - [text-overflow](https://developer.mozilla.org/en-US/docs/Web/CSS/text-overflow)
 - [Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
-
 - [Font Awesome](https://fontawesome.com/search?s=solid%2Cbrands)
 - [Library Icons](https://icons8.com/icons/set/library)
 - [Free Icons](https://flaticons.net/free-icons)
-
 - [Box Shadow Generator](https://html-css-js.com/css/generator/box-shadow/)
 - [Colors Code](https://colors.artyclick.com/color-shades-finder/?color=#2B6C0F)
 
