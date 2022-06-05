@@ -9,6 +9,7 @@
 - [Box Shadow Generator](https://html-css-js.com/css/generator/box-shadow/)
 - [Colors Code](https://colors.artyclick.com/color-shades-finder/?color=#2B6C0F)
 - [Google Fonts](https://fonts.google.com/?query=gre)
+- [The 30 CSS Selectors You Must Memorize](https://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048)
 
 ## Lecture 4 CSS Box model
 - [css-tricks.com - nth-child-tester](https://css-tricks.com/examples/nth-child-tester/)
