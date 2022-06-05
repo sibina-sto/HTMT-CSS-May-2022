@@ -1,5 +1,6 @@
 ## Exemple
 - [Emmet Documentation](https://docs.emmet.io/cheat-sheet/)
+- [Ellipsis string](https://css-tricks.com/snippets/css/truncate-string-with-ellipsis/)
 
 ## Lecture 4 CSS Box model
 - [css-tricks.com - nth-child-tester](https://css-tricks.com/examples/nth-child-tester/)
