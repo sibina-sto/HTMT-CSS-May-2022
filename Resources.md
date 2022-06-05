@@ -6,6 +6,7 @@
 - [Library Icons](https://icons8.com/icons/set/library)
 - [Free Icons](https://flaticons.net/free-icons)
 - [Box Shadow Generator](https://html-css-js.com/css/generator/box-shadow/)
+- [Colors](https://colors.artyclick.com/color-shades-finder/?color=#2B6C0F)
 
 ## Lecture 4 CSS Box model
 - [css-tricks.com - nth-child-tester](https://css-tricks.com/examples/nth-child-tester/)
