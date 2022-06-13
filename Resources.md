@@ -31,7 +31,7 @@
 - [complete-guide-grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 - [Figma - Grid layout design](https://www.figma.com/community/file/978648046298721882)
 
-## Exercise CSS
+## Example CSS
 @import url("https://use.fontawesome.com/releases/v5.15.4/css/all.css");
 
 ##  CSS Flexbox
