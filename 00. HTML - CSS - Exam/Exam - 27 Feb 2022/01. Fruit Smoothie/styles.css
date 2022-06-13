@@ -1,83 +1,70 @@
-* {
-    padding: 0;
-    margin: 0;
-    box-sizing: border-box;
-}
+@import url('https://fonts.googleapis.com/css2?family=PT+Serif&display=swap');
 
 body {
-    background-image: url("/image/image1.png");
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    padding: 30px 30px;
-    font-size: 1.5rem;
+    font-family: 'PT Serif', serif;
 }
 
-.site-container {
+ul {
+    list-style: none;
+}
+
+.recipe {
+    width: 80%;
     display: flex;
-    flex-wrap: nowrap;
+    flex-direction: row;
+    text-align: left;
+    gap: 2rem;
+
+    background-image: url(image/image1.png);
+    background-repeat: no-repeat;
+    box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.25);
 }
 
-.container {
+.how {
     width: 50%;
-    padding-right: 30px;
 }
 
-.picture {
-    width: 50%;
+.kiwipic {
+    width: 49%;
 }
 
-.picture img {
-    width: 100%;
+.kiwipic img {
+    width: 95%;
+    height: 400px;
 }
 
+.how p {
+    padding: 0 35px;
+}
 
+.how hr {
+    background-color: #128617;
+    width: 95%;
+}
 
-.title h1 {
-    padding-bottom: 5px;
-    border-bottom: 2px dotted rgb(0, 128, 0);
+.how h1 {
     text-align: center;
 }
 
-.preparation {
-
-    font-style: italic;
-    padding: 10px 0px 30px 0px;
-}
-
-.right {
-    padding-left: 270px;
-}
-
-.receipt p{
-padding-bottom: 40px;
-}
-
-.bold {
-    color: rgb(0, 128, 0);
+.how ul li span {
+    color: #128617;
     font-weight: bold;
 }
 
-table, tr, td {
-    border: 2px solid rgb(0, 128, 0);
+.servings {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
 
+    font-style: italic;
+}
+
+table, td, th {
+    border: 1px solid #128617;
 }
 
 table {
+    margin: 0 35px;
+    width: 90%;
     border-collapse: collapse;
-    width: 100%;
-}
-
-tr,
-td {
-
-    padding: 10px 0px;
-}
-
-td {
-    text-align: center;
-}
-
-.head {
-    font-weight: bold;
-}
+  }
