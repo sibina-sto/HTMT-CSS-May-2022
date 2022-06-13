@@ -2,6 +2,7 @@
 - [Emmet Documentation](https://docs.emmet.io/cheat-sheet/)
 - [Ellipsis string](https://css-tricks.com/snippets/css/truncate-string-with-ellipsis/)
 - [text-overflow](https://developer.mozilla.org/en-US/docs/Web/CSS/text-overflow)
+- [Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 - [Font Awesome Icons](https://fontawesome.com/search?s=solid%2Cbrands)
 - [Library Icons](https://icons8.com/icons/set/library)
 - [Free Icons](https://flaticons.net/free-icons)
@@ -21,19 +22,20 @@
 - [Fighting the Space Between Inline Block Elements](https://css-tricks.com/fighting-the-space-between-inline-block-elements/)
 - [How to remove the space between inline/inline-block elements?](https://stackoverflow.com/questions/5078239/how-to-remove-the-space-between-inline-inline-block-elements)
 
+
 ## CSS Positioning & GRID
-- [Learn Z-Index Using a Visualization Tool
-](https://thirumanikandan.com/posts/learn-z-index-using-a-visualization-tool)
+- [Learn Z-Index Using a Visualization Tool](https://thirumanikandan.com/posts/learn-z-index-using-a-visualization-tool)
+- [Centering in CSS: A Complete Guide](https://css-tricks.com/centering-css-complete-guide/)
 
 ## Exercise CSS Positioning & GRID
 - [caniuse](https://caniuse.com/)
 - [complete-guide-grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 - [Figma - Grid layout design](https://www.figma.com/community/file/978648046298721882)
 
-## Example CSS
+## Exercise CSS
 @import url("https://use.fontawesome.com/releases/v5.15.4/css/all.css");
 
-##  CSS Flexbox
+## CSS Flexbox
 - [Figma Portfolio design](https://www.figma.com/community/file/1116316830579955404)
 - [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 - [Game: Flexbox Froggy](https://flexboxfroggy.com/)
@@ -41,3 +43,6 @@
 - [Game: Select the plates](https://flukeout.github.io)
 - [Game:GRID GARDEN](https://cssgridgarden.com/)
 - [naming conventions](https://github.com/icanteven-code/aw-some-frontend-resources#methodologies--naming-conventions)
+
+## Media Queries
+- [A Complete Guide to Media Queries](https://css-tricks.com/a-complete-guide-to-css-media-queries/)
