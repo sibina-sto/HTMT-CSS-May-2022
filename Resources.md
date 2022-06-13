@@ -41,7 +41,7 @@
 - [Game: Flexbox Froggy](https://flexboxfroggy.com/)
 - [Game: Flexbox adventure](https://codingfantasy.com/games/flexboxadventure)
 - [Game: Select the plates](https://flukeout.github.io)
-- [Game:GRID GARDEN](https://cssgridgarden.com/)
+- [Game: GRID GARDEN](https://cssgridgarden.com/)
 - [naming conventions](https://github.com/icanteven-code/aw-some-frontend-resources#methodologies--naming-conventions)
 
 ## Media Queries
