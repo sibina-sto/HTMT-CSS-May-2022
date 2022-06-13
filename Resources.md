@@ -32,4 +32,13 @@
 - [Figma - Grid layout design](https://www.figma.com/community/file/978648046298721882)
 
 ## Exercise CSS
-@import url('https://pro.fontawesome.com/releases/v5.10.0/css/all.css');
+@import url("https://use.fontawesome.com/releases/v5.15.4/css/all.css");
+
+##  CSS Flexbox
+- [Figma Portfolio design](https://www.figma.com/community/file/1116316830579955404)
+- [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- [Game: Flexbox Froggy](https://flexboxfroggy.com/)
+- [Game: Flexbox adventure](https://codingfantasy.com/games/flexboxadventure)
+- [Game: Select the plates](https://flukeout.github.io)
+- [Game:GRID GARDEN](https://cssgridgarden.com/)
+- [naming conventions](https://github.com/icanteven-code/aw-some-frontend-resources#methodologies--naming-conventions)
