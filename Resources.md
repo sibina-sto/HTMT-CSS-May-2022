@@ -2,7 +2,6 @@
 - [Emmet Documentation](https://docs.emmet.io/cheat-sheet/)
 - [Ellipsis string](https://css-tricks.com/snippets/css/truncate-string-with-ellipsis/)
 - [text-overflow](https://developer.mozilla.org/en-US/docs/Web/CSS/text-overflow)
-- [Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 - [Font Awesome Icons](https://fontawesome.com/search?s=solid%2Cbrands)
 - [Library Icons](https://icons8.com/icons/set/library)
 - [Free Icons](https://flaticons.net/free-icons)
