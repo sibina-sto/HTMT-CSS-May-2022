@@ -7,11 +7,8 @@
 - [Library Icons](https://icons8.com/icons/set/library)
 - [Free Icons](https://flaticons.net/free-icons)
 - [Box Shadow Generator](https://html-css-js.com/css/generator/box-shadow/)
-
 - [Google Fonts](https://fonts.google.com/?query=gre)
-
 - [The 30 CSS Selectors You Must Memorize](https://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048)
-
 - [Colors Code](https://colors.artyclick.com/color-shades-finder/?color=#2B6C0F)
 - [mycolor.space](https://mycolor.space/gradient)
 
