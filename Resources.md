@@ -45,4 +45,6 @@
 - [naming conventions](https://github.com/icanteven-code/aw-some-frontend-resources#methodologies--naming-conventions)
 
 ## Media Queries
-- [A Complete Guide to Media Queries](https://css-tricks.com/a-complete-guide-to-css-media-queries/)
+- [A Complete Guide to CSS Media Queries](https://css-tricks.com/a-complete-guide-to-css-media-queries/)
+- [@Import conditionally](https://developer.mozilla.org/en-US/docs/Web/CSS/@import#importing_css_rules_conditionally)
+- [Iconfinder](https://www.iconfinder.com/)
