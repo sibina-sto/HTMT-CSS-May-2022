@@ -1,0 +1,44 @@
+/* TODO: Add the responsive styles here */
+@media screen and (max-width: 600px) {
+
+    html,
+    body {
+        max-width: 100%;
+        overflow-x: hidden;
+    }
+
+    .tm-nav-li {
+        padding-right: 0;
+    }
+
+    .col-md-6.col-12.tm-nav {
+        display: block;
+        text-align: right;
+        flex-grow: 1;
+    }
+
+    .col-12.text-center.tm-section-title {
+        margin: 0 auto 30px auto;
+    }
+
+    #tm-gallery-page-pizza {
+        margin: 0 auto;
+        justify-content: center;
+    }
+
+    .tm-gallery {
+        margin-left: 0;
+    }
+
+    .tm-cta-section {
+        width: 100%;
+    }
+
+    .col-md-6 {
+        padding: 0;
+    }
+
+    .tm-description-box {
+        margin: 30px 10px;
+    }
+}
